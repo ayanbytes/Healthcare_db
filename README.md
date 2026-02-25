@@ -1,4 +1,4 @@
-*📊 Healthcare Database SQL Analytics Project*
+****📊 Healthcare Database SQL Analytics Project****
 This project contains a collection of advanced SQL queries built on a healthcare data warehouse designed using a star schema structure. The database includes a central FactTable connected to multiple dimension tables such as:
 
 **dimPatient**
