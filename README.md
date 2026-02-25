@@ -6,7 +6,7 @@ This project contains a collection of advanced SQL queries built on a healthcare
 **dimPhysician**
 
 **dimLocation**
-
+ 
 **dimDiagnosisCode**
 
 **dimCptCode**
