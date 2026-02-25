@@ -1,21 +1,21 @@
 **📊 Healthcare Database SQL Analytics Project**
 This project contains a collection of advanced SQL queries built on a healthcare data warehouse designed using a star schema structure. The database includes a central FactTable connected to multiple dimension tables such as:
 
-dimPatient
+**dimPatient**
 
-dimPhysician
+**dimPhysician**
 
-dimLocation
+**dimLocation**
 
-dimDiagnosisCode
+**dimDiagnosisCode**
 
-dimCptCode
+**dimCptCode**
 
-dimTransaction
+**dimTransaction**
 
-dimPayer
+**dimPayer**
 
-dimDate
+**dimDate**
 
 The goal of this project is to analyze healthcare operations, financial performance, and patient demographics using real-world business scenarios.
 
@@ -84,8 +84,6 @@ Support operational and strategic decision-making
 
 **🛠 Technologies Used**
 
-SQL (T-SQL compatible syntax)
-
-Relational Database Design (Star Schema)
-
-Healthcare Revenue Cycle Concepts
+**SQL (T-SQL compatible syntax)**
+**Relational Database Design (Star Schema)**
+**Healthcare Revenue Cycle Concepts**
